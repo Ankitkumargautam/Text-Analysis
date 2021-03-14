@@ -7,6 +7,8 @@ As you can see in project image, it is taken from Iron man part-1 movie. Source 
 2. Obviously tony is the name of Main character.
 3. like, need, right, sir, thing, thank, stark, great, tell all of these words are used by jarvis the AI bot e.g. what would you like sir, you are right, thank you jarvis, the bot used to call tony Mr Stark, also tony haters call him stark.
 4. kill, oh shows that there is terrorism in the movie with whome hero have to fight.
+
+
 source of ironmanscript
 
 http://www.script-o-rama.com/movie_scripts/a2/iron-man-script-transcript.html
