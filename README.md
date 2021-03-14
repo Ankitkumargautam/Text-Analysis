@@ -1,6 +1,5 @@
 # Text-Analysis
 
-Text Analysis
 Here in Text Analysis I have used Word Cloud generator. Word clouds or tag clouds are graphical representations of word frequency that give greater prominence to words that appear more frequently in a source text. The larger the word in the visual the more common the word was in the document(s). This type of visualization can assist evaluators with exploratory textual analysis by identifying words that frequently appear in a set of interviews, documents, or other text. It can also be used for communicating the most salient points or themes in the reporting stage.
 As you can see in project image, it is taken from Iron man part-1 movie. Source is below. We are geting i am in bold means it is used too many times in the script. In movie also our hero character itself repeated these words too many times. We are getting know, tony, like, need, right, sir, thing, thank, stark, great, tell, yes, oh, tony stark in descending order. So, let try to get insights from it.
 1. Scince it is a superhero movies so to show heroism hero often used to say you know, and also people around him used to suggest him with you know. Ironman 1 is super duper hit so other action film maker can use this idea to promote their movie.
